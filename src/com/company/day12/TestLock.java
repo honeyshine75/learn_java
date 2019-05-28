@@ -1,10 +1,9 @@
-package com.company;
-
+package com.company.day12;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
- * @author zhangxd
+ * @author
  * @date 2019/5/24 15:12
  */
 public class TestLock {
